@@ -1,5 +1,5 @@
-d3ebd1e1893715f651dc75677e9e67b1 *CHANGELOG
-6016baeff5b98b0ea633891b21c072f5 *DESCRIPTION
+5f2a2f6b649d72fa7ea36d08070a97b3 *CHANGELOG
+6cfc611577cfa75e79e4a32c97c0a4ab *DESCRIPTION
 43960f2f41cf0ee4c39aefc7d63bda83 *NAMESPACE
 b6799f1a98a0def63fce9f45161b8baa *R/GQN.R
 01c9eab16d7bed57143611c6cf2261d4 *R/GQU.R
@@ -14,9 +14,9 @@ f86a81f4a4510343c5e530d9d768585c *R/createMonteCarloGrid.R
 9b5256af4b1d1335338f738b37d42dce *R/createSparseGrid.R
 8ee6bcf4b79aae8d655b61396966335b *R/sortrows.R
 17ac6e8bcad018a34044f20ce1cbc769 *inst/CITATION
-9d4e12d55e44433b4e95e6275ab8dbed *inst/doc/SparseGrid.Rnw
-9c820b70c0be3b991985f54eebab4f3a *inst/doc/SparseGrid.pdf
-0a213c152bd5458997edced4f7ab699d *inst/doc/reflist.bib
+bed7b37a8c84d62def0c0f5e4c5cfa7c *inst/doc/SparseGrid.R
+dd9365da8b420ef51858bef5435716a9 *inst/doc/SparseGrid.Rnw
+523e60f882e2cb7ceed4866ca9d6103b *inst/doc/SparseGrid.pdf
 834d271b1396a835d0432224a4eace74 *inst/tests/KPN_demo.R
 d89ad25c1320f89503e2afb88b3c235c *inst/tests/demo.R
 10a31bd3ecddb39d763c8cb5d0b406ce *inst/tests/demo_userdefined.R
@@ -49,3 +49,5 @@ b5f5b00657808f5d9355076c6a6ed4d5 *man/createProductRuleGrid.Rd
 9f5e8d9ed5e5cb755d0d3732b4e172c5 *man/createSparseGrid.Rd
 63ca69d500c9b63fda087cc6c0ee87f5 *man/readASCGrid.Rd
 8e198891b819a87c1546e5455aa5c87e *tests/test-all.R
+dd9365da8b420ef51858bef5435716a9 *vignettes/SparseGrid.Rnw
+0a213c152bd5458997edced4f7ab699d *vignettes/reflist.bib
